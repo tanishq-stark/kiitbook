@@ -1,0 +1,2 @@
+[04-Jun-2019 21:22:03 Indian/Maldives] PHP Warning:  Missing argument 3 for Post::submitPost(), called in /home/vq4f7oatcmta/public_html/includes/handlers/ajax_submit_profile_post.php on line 10 and defined in /home/vq4f7oatcmta/public_html/includes/classes/Post.php on line 11
+[04-Jun-2019 22:45:43 Indian/Maldives] PHP Warning:  Missing argument 3 for Post::submitPost(), called in /home/vq4f7oatcmta/public_html/includes/handlers/ajax_submit_profile_post.php on line 10 and defined in /home/vq4f7oatcmta/public_html/includes/classes/Post.php on line 11
